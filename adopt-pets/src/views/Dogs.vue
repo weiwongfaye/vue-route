@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Dogs for Adoption</h1>
     <PetTable
       species="dogs"
       :pets="dogs"
